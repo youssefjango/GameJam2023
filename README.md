@@ -1,3 +1,2 @@
-# GameJam2023
-/*By Youssef, Sohaib, Elyes*/
+# GameJam2023 *By Youssef, Sohaib, Elyes*
 Theme: _________
